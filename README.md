@@ -28,7 +28,7 @@ The platform offers the following essential functionalities:
 
 - Clone the repository.
 ```
-git clone https://github.com/ajiitkgp/Crypto-Trading-Plateform.git
+git clone https://github.com/ajiitkgp/Crypto-Trading-Platform.git
 ```
 -  Compile the code using the following command:
 ```
