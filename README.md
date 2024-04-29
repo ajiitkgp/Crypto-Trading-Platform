@@ -47,6 +47,6 @@ g++ main.cpp -o trading_platform
 5: Print wallet
 6: Continue
 ===========
-Current time is: 2020/03/17 17:01:24.884492
+Current time is: 2023/12/13 17:01:24.884492
 Type in 1-6
 ```
